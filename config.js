@@ -1,35 +1,35 @@
 //=============『 Utama 』================== //
-global.owner = ['6282178339278'] 
+global.owner = ['6287898307350'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'RAFFI 𝐆𝐀𝐍𝐙あ⁩⁩'
-global.numberowner = '6282178339278'
-global.instagram = 'https://www.instagram.com/rfindru'
-global.github = 'https://github.com/ramlaidi'
-global.dana = '082178339278'
-global.pulsa = '082178339278'
+global.nameowner = 'Gempy⛧⁩⁩'
+global.numberowner = '6287898307350'
+global.instagram = 'https://www.instagram.com/gmpyyy'
+global.github = 'https://github.com/gmpyyy'
+global.dana = '087898307350'
+global.pulsa = '087898307350'
 global.gopay = '-'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'raffiu-Md'
-global.gc = 'https://chat.whatsapp.com/LnigLfLe6RsAuHtTHBFLFm'
-global.web = 'https://youtube.com/channel/UCJx0dE2sYiST7vIACdRO7pA' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = 'PENTABOT'
+global.gc = 'https://chat.whatsapp.com/ElBB5NrJS637TYqjJLHuk2'
+global.web = 'https://www.youtube.com/channel/UCZoVmApPxtLYgUWwBD4nbCw' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/e93e7d35611bc547ebbae.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/e93e7d35611bc547ebbae.jpg' //ini juga ganti 
+global.fotonya1 = 'https://i.postimg.cc/MZjW7hb6/20220707-200605.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://i.postimg.cc/MZjW7hb6/20220707-200605.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'raffiu-MD'
+global.wm = 'PENTABOT'
 global.watermark = wm
-global.wm2 = '                     「 raffiu-MD あ⁩ 」'
-global.wm3 = '⫹⫺ raffiu-MD'
+global.wm2 = '                     「PENTABOT⁩ 」'
+global.wm3 = 'Gempy⛧'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://telegra.ph/file/e93e7d35611bc547ebbae.jpg'
+global.media = 'https://i.postimg.cc/MZjW7hb6/20220707-200605.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
@@ -63,7 +63,8 @@ global.APIs = { // API Prefix
   erdwepe: 'https://erdwpe-api.herokuapp.com',
   lolhuman: 'https://api.lolhuman.xyz',
   LeysCoder: 'https://leyscoders-api.herokuapp.com',
-  rey: 'https://server-api-rey.herokuapp.com'
+  rey: 'https://server-api-rey.herokuapp.com',
+  zenz: 'https://zenzapis.xyz/'
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
@@ -78,6 +79,7 @@ global.APIKeys = { // APIKey Here
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
   'https://zekais-api.herokuapp.com': 'apikeymu',
   'https://api.lolhuman.xyz': 'Deffbotz',
+  'https://zenzapis.xyz/' : 'e87e334de1ea',
 }
 
 //=============『 RPG GAMES 』================== //
