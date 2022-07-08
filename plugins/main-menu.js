@@ -283,21 +283,21 @@ const fdoc = {
 
 //━━━━━━━━[ BAGIAN MENU ]━━━━━━━━//
 if (teks == '404') {
-let menuu = `┌────「 *${namebot}* 」───⬣
-│⬡ Aktif selama ${uptime}
-│⬡ ${Object.keys(global.db.data.users).length} Pengguna
-│⬡ Mode : ${global.opts['self'] ? 'Self' : 'publik'}
-│⬡ ${Object.entries(global.db.data.chats).filter(chat => chat[1].isBanned).length} Chat Terbanned
-│⬡ ${Object.entries(global.db.data.users).filter(user => user[1].banned).length} Pengguna Terbanned
-╰──────⬣
-┌────「 *${name}* 」───⬣
-│⬡ Api : ${tag}
-│⬡ Limit : ${limit}
-│⬡ Role : ${role}
-│⬡ Premium : ${global.prem ? 'Yes' : 'No'}
-│⬡ Date : ${week} ${date}
-│⬡ Time : ${wib}
-╰──────────────⬣`
+let menuu = `┏━ ﹝ℙℝ𝕆𝔽𝕀𝕃𝔼 𝕄𝕌﹞ ━⚀︎
+┃乡𝐍𝐀𝐌𝐀➩ *${name}* 
+┃乡𝐋𝐈𝐌𝐈𝐓➩ *%limit 𝐓𝐞𝐫𝐬𝐢𝐬𝐚*
+┃乡𝐑𝐎𝐋𝐄➩ *%role*
+┃乡𝐋𝐄𝐕𝐄𝐋➩ *%level (%exp / %maxexp)*
+┃乡𝐋𝐄𝐕𝐄𝐋➩ ${global.prem ? '𝐘𝐀' : '𝐓𝐈𝐃𝐀𝐊'}
+┗━━━━━━━━━━━━━━⚀︎
+┏━━━ ﹝𝔹𝕆𝕋 𝕀ℕ𝔽𝕆﹞ ━━⚀︎
+┠ 💻𝘖𝘸𝘯𝘦𝘳 ➨ ${global.nameowner}
+┠👤𝘊𝘳𝘦𝘢𝘵𝘰𝘳 ➨ 𝘎𝘦𝘮𝘱𝘺
+┠🤖𝘉𝘰𝘵𝘕𝘢𝘮𝘦 ➨ ${global.wm}
+┠🔱𝘔𝘰𝘥𝘦 ➨ ${global.opts['self'] ? 'Self' : 'publik'}
+┠⏰𝘜𝘱𝘵𝘪𝘮𝘦 ➨ %uptime (%muptime)
+┠ ⏲️𝘙𝘶𝘯𝘵𝘪𝘮𝘦 ➨ ${uptime}
+┗━━━━━━━━━━━━━━⚀︎`
 const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fromObject({
         listMessage: {
             title: `${ucapan()} ${name}`,
