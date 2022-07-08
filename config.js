@@ -31,13 +31,13 @@ global.htki = '––––––『'
 global.htka = '』––––––'
 global.media = 'https://i.postimg.cc/MZjW7hb6/20220707-200605.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.wait = '_*tunggu sedang di proses...*_'
-global.eror = '_*Server Error*_'
+global.wait = 'Process...'
+global.eror = 'ERROR'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = 'punya'
-global.author = '© raffi ganz'
+global.packname = 'Created by'
+global.author = 'Gempy⛧⁩⁩'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
