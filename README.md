@@ -46,9 +46,9 @@ WhatsApp Bot Multi Device
 | **Node.js**     | heroku/nodejs|
 
 # Creator Bot
- [![Ilman](https://github.com/ilmanhdyt.png?size=200)](https://github.com/ilmanhdyt) | [![Irsan](https://github.com/ramlaidi.png?size=200)](https://github.com/ramlaidi) 
+ [![Ilman](https://github.com/ilmanhdyt.png?size=200)](https://github.com/ilmanhdyt) | [![GEMPY](https://github.com/GempyTon.png?size=200)](https://github.com/GempyTon) 
 ----|----
-[Ilman](https://github.com/ilmanhdyt) | [Irsan](https://github.com/ramlaidi)
+[Ilman](https://github.com/ilmanhdyt) | [GEMPY](https://github.com/GempyTon)
  Author | Creator
  
 ### SAN Statistics
