@@ -283,79 +283,73 @@ const fdoc = {
 
 //━━━━━━━━[ BAGIAN MENU ]━━━━━━━━//
 if (teks == '404') {
-let menuu = `┏━ ﹝ℙℝ𝕆𝔽𝕀𝕃𝔼 𝕄𝕌﹞ ━⚀︎
-┃乡𝐍𝐀𝐌𝐀➩ *${name}* 
-┃乡𝐋𝐈𝐌𝐈𝐓➩ ${limit}
-┃乡𝐑𝐎𝐋𝐄➩ ${role}
-┃乡𝐏𝐑𝐄𝐌𝐈𝐔𝐌➩ ${global.prem ? '𝐘𝐀' : '𝐓𝐈𝐃𝐀𝐊'}
-┗━━━━━━━━━━━━━━⚀︎
-┏━━━ ﹝𝔹𝕆𝕋 𝕀ℕ𝔽𝕆﹞ ━━⚀︎
+let menuu = `┏━━━ ﹝𝔹𝕆𝕋 𝕀ℕ𝔽𝕆﹞ ━━⚀︎
 ┠ 💻𝘖𝘸𝘯𝘦𝘳 ➨ ${global.nameowner}
 ┠👤𝘊𝘳𝘦𝘢𝘵𝘰𝘳 ➨ 𝘎𝘦𝘮𝘱𝘺
-┠🤖𝘉𝘰𝘵𝘕𝘢𝘮𝘦 ➨ ${global.wm}
+┠🤖𝘉𝘰𝘵𝘕𝘢𝘮𝘦 ➨ ${global.namebot}
 ┠🔱𝘔𝘰𝘥𝘦 ➨ ${global.opts['self'] ? 'Self' : 'publik'}
 ┠ ⏲️𝘙𝘶𝘯𝘵𝘪𝘮𝘦 ➨ ${uptime}
-┗━━━━━━━━━━━━━━⚀︎`
+┗━━━━━━━━━━━━━━━━⚀︎`
 const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fromObject({
         listMessage: {
             title: `${ucapan()} ${name}`,
             description: menuu,
-            buttonText: 'LIST MENU',
+            buttonText: '⌜ᴘɪʟɪʜ ᴍᴇɴᴜ⌟',
             listType: 1,
             footerText: "𝚂𝙸𝙻𝙰𝙷𝙺𝙰𝙽 𝙿𝙸𝙻𝙸𝙷 𝙼𝙴𝙽𝚄 𝙳𝙸 𝙱𝙰𝚆𝙰𝙷",
             mtype: 'listMessage',
             sections: [
               {
                 "rows": [{
-                  "title": ` 👨 OWNER BOT`,
-                  "description": "Nomor Pemilik Bot Chat P/Meminta Save Tidak Akan Di Respon",
+                  "title": ` «👤» 𝐎𝐖𝐍𝐄𝐑 𝐁𝐎𝐓`,
+                  "description": "𝙼𝚎𝚗𝚊𝚖𝚙𝚒𝚕𝚔𝚊𝚗 𝙾𝚠𝚗𝚎𝚛 𝙱𝚘𝚝",
                   "rowId": `.owner`
                 },{
-                  "title": "❗ INFO BOT",
-                  "description": "Menampilkan Menu Info",
+                  "title": "«⚠️» 𝐁𝐎𝐓 𝐈𝐍𝐅𝐎",
+                  "description": "𝙼𝚎𝚗𝚊𝚖𝚙𝚒𝚕𝚔𝚊𝚗 𝙸𝚗𝚏𝚘",
                   "rowId": `${_p}? info`
                 }],
                 "title": "INFORMASI BOT"
               }, {
                 "rows": [{
-                  "title": `│🧾│ SEMUA PERINTAH`,
-                  "description": "Menampilkan Menu All",
+                  "title": `⌠ 💬 ⌡ ᴀʟʟ ᴍᴇɴᴜ`,
+                  "description": "𝚂𝚎𝚖𝚞𝚊 𝚖𝚎𝚗𝚞",
                   "rowId": '.? all'
                   }, {
-                  "title": "│ 📝│ ABSEN & VOTING",
-                  "description": "Menampilkan Menu Absen",
+                  "title": "⌠ 🚦 ⌡ ᴀʙsᴇɴ & ᴠᴏᴛɪɴɢ",
+                  "description": "𝙰𝚋𝚜𝚎𝚗 𝚍𝚊𝚗 𝚅𝚘𝚝𝚒𝚗𝚐 𝙼𝚎𝚗𝚞",
                   "rowId": `${_p}? absen`
                 }, {
-                  "title": "│⛩️│ANIME",
-                  "description": "Menampilkan Menu Anime",
+                  "title": "⌠ 🇯🇵 ⌡ ᴀɴɪᴍᴇ ᴍᴇɴᴜ",
+                  "description": "𝚆𝚒𝚋𝚞 𝚑𝚊𝚕𝚞 𝚖𝚎𝚗𝚞",
                   "rowId": `${_p}? anime`
                 }, {
-                  "title": "│🎇│STICKER & CONVERTER",
-                  "description": "Menampilkan Menu Sticker",
+                  "title": "⌠ 🎨 ⌡ sᴛɪᴄᴋᴇʀ & ᴄᴏɴᴠᴇʀᴛᴇʀ",
+                  "description": "𝙼𝚎𝚗𝚞 𝚂𝚝𝚒𝚌𝚔𝚎𝚛 𝙲𝚘𝚗𝚟𝚎𝚛𝚝",
                   "rowId": `${_p}? sticker`
                 }, {
-                  "title": "│📺│DOWNLOADER",
-                  "description": "Menampilkan Menu Downloader",
+                  "title": "⌠ 🔰 ⌡ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ ᴍᴇɴᴜ",
+                  "description": "𝙵𝚒𝚝𝚞𝚛 𝚋𝚞𝚊𝚝 𝚗𝚐𝚎-𝙳𝚘𝚠𝚗𝚕𝚘𝚊𝚍",
                   "rowId": `${_p}? downloader`
                 }, {
-                  "title": "│📈│EXP & LIMIT",
-                  "description": "Menampilkan Menu Exp",
+                  "title": "⌠ 📊 ⌡ ᴇxᴘ ᴅᴀɴ ʟɪᴍɪᴛ",
+                  "description": "𝚂𝚎𝚙𝚞𝚝𝚊𝚛 𝙴𝚡𝚙 𝚍𝚊𝚗 𝙻𝚒𝚖𝚒𝚝",
                   "rowId": `${_p}? xp`
                 }, {
-                  "title": "│🐣│FUN",
-                  "description": "Menampilkan Menu Fun",
+                  "title": "⌠ 🤺 ⌡ ғᴜɴ ᴍᴇɴᴜ",
+                  "description": " 𝙱𝚞𝚊𝚝 𝚜𝚎𝚛𝚞-𝚜𝚎𝚛𝚞𝚊𝚗",
                   "rowId": `${_p}? fun`
                 }, {
-                  "title": "│🎮│GAME",
-                  "description": "Menampilkan Menu Game",
+                  "title": "⌠ 🎮 ⌡ ɢᴀᴍᴇ ᴍᴇɴᴜ",
+                  "description": "𝙱𝚎𝚋𝚎𝚛𝚊𝚙𝚊 𝚐𝚊𝚖𝚎",
                   "rowId": `${_p}? game`
                 }, {
-                  "title": "│🧰│GITHUB",
-                  "description": "Menampilkan Menu Github",
+                  "title": "⌠ 🧰 ⌡  ɢɪᴛʜᴜʙ",
+                  "description": "𝙶𝚒𝚝𝚑𝚞𝚋 𝚌𝚛𝚎𝚊𝚝𝚘𝚛",
                   "rowId": `${_p}? github`
                 }, {
-                  "title": "│🏢│GROUP",
-                  "description": "Menampilkan Menu Group",
+                  "title": "⌠  🏢 ⌡   ɢʀᴏᴜᴘ ᴍᴇɴᴜ",
+                  "description": "𝙼𝚎𝚗𝚞 𝚋𝚞𝚊𝚝 𝚐𝚛𝚞𝚙",
                   "rowId": `${_p}? group`
                 }, {
                   "title": "│🖼│IMAGE",
