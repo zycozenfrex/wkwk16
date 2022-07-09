@@ -65,4 +65,4 @@ WhatsApp Bot Multi Device
 ---------
 
 ## Request Fitur To
-[`Creator Here`](https://wa.me/87898307350?text=Banh+req+fitur) 
+[`Creator Here`](https://wa.me/6287898307350?text=Banh+req+fitur) 
