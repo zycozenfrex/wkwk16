@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://telegra.ph/file/677780c08cc83059ac934.jpg" alt="Hyzer Md-V3" width="300" />
+<img src="https://i.postimg.cc/6qHxw8C6/20220116-012320.png" alt="Hyzer Md-V3" width="300" />
 
 </p>
-<h1 align="center">IrsanXd</h1>
+<h1 align="center">GEMPY TON</h1>
 
 >
 >
