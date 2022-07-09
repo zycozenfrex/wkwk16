@@ -9,20 +9,19 @@
 >
 </div>
 <p align="center">
-  <a href="https://github.com/ramlaidi"><img title="GitHub" src="https://img.shields.io/badge/Github-ramlaidi.svg?style=for-the-badge&logo=github" /></a>
-  <a href="httts://instagram.com/_"><img title="Instagram " src="https://img.shields.io/badge/Instagram-Hyzerr.svg?style=for-the-badge&logo=instagram" /></a>
-  <a href="https://youtube.com/channel/UCSkb2IZTJ7RuPvrcZKFFjtg"><img title="Youtube" src="https://img.shields.io/badge/Youtube-Hyzerr.svg?style=for-the-badge&logo=youtube" /></a>
-  <a href="https://api.herokuapp.com"><img title="Rest Api" src="https://img.shields.io/badge/Rest Api-?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://github.com/GempyTon"><img title="GitHub" src="https://img.shields.io/badge/Github-ramlaidi.svg?style=for-the-badge&logo=github" /></a>
+  <a href="httts://instagram.com/gmpyyy"><img title="Instagram " src="https://img.shields.io/badge/Instagram-Hyzerr.svg?style=for-the-badge&logo=instagram" /></a>
+  <a href="https://youtube.com/channel/UCZoVmApPxtLYgUWwBD4nbCw"><img title="Youtube" src="https://img.shields.io/badge/Youtube-Hyzerr.svg?style=for-the-badge&logo=youtube" /></a>
   <h4 align="center">
   <a
-  <a href="https://wa.me/855387869292">Chat Saya Jika Ingin Menanyakan Sesuatu </a>
+  <a href="https://wa.me/𝟼𝟸𝟾𝟽𝟾𝟿𝟿𝟹𝟶𝟽𝟹𝟻𝟶">Klik disini untuk whatsapp Gempy </a>
 </h4>
 </p>
 
 # Ambil Session Disini
 
 > Buka [ Linknya Disini ](https://replit.com/@zeeoneofc/Session-Md?lita=1&outputonly=1#.replit) 
-> Untuk Tutorialnya Liat Dan Subscribe [ Here ](https://youtu.be/7wfSvv4AHsQ) 
+> Untuk Tutorialnya Liat Dan Subscribe [ Here ](https://youtube.com/channel/UCZoVmApPxtLYgUWwBD4nbCw) 
 
 ### Preview bot
 ------------------
@@ -66,4 +65,4 @@ WhatsApp Bot Multi Device
 ---------
 
 ## Request Fitur To
-[`Creator Here`](https://wa.me/855387869292?text=Banh+req+fitur) 
+[`Creator Here`](https://wa.me/87898307350?text=Banh+req+fitur) 
