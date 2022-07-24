@@ -53,8 +53,8 @@ WhatsApp Bot Multi Device
  
 ### SAN Statistics
 
-[![ramlaidi GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramlaidi&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
-[![ramlaidi Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ramlaidi&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
+[![GempyTon GitHub Stats](https://github-readme-stats.vercel.app/api?username=GempyTon&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
+[![GempyTon Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=GempyTon&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
 
 # Thanks to
  [![Nurutomo](https://github.com/Nurutomo.png?size=200)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=200)](https://github.com/ariffb25) | [![F](https://github.com/Paquito1923.png?size=200)](https://github.com/Paquito1923)
